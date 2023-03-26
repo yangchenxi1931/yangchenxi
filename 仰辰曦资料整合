@@ -1,0 +1,13 @@
+<html>
+ <head> 
+  <script src="js/jq.js"></script> 
+ </head> 
+ <body id="v1"> 
+  <meta id="v2" charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+  <title id="v3">仰辰曦资料整合</title> 
+  <h1 id="v4">仰辰曦资料整合</h1> 
+  <p id="v5">点击标准蓝色字体进入其他页面</p> 
+  <p id="v6">温馨提示：版权所有，违者必究。</p> 
+  <a href="file:///storage/4526-4C89/WebCat/project/仰辰曦网站/index.html" id="v7">仰辰曦网站</a> 
+ </body>
+</html>
